@@ -4,6 +4,10 @@
 
 <br>
 
+
+<img src="https://images.openai.com/static-rsc-4/OqbZbrqL0qD5Lfj368g7b6_9ar8rXbxVC3RKtnKi61eR_GZpr35dzRS1onqrHB4RM9otEflN4hSV6euPRv6Mmy0HqDiWUL435KEll1U2LBwCfMDv1G1a3QyWUOtujgDrQ4w9GrLgvKSNxzhLCd-8a_1dbot_hXNf4W8OLSV56Es?purpose=inline" width="100%">
+
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=%5B%2B%5D+Initializing+Tayani.exe...;%5BOK%5D+JavaScript+loaded;%5BOK%5D+Frontend+module+loaded;%5BOK%5D+Backend+module+loaded;%5B%2B%5D+Automation+system+online...;%3E%3E%3E+Welcome+to+my+profile_%F0%9F%92%9C" />
 
 <br><br>
