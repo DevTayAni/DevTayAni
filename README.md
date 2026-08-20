@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.openai.com/static-rsc-4/OqbZbrqL0qD5Lfj368g7b6_9ar8rXbxVC3RKtnKi61eR_GZpr35dzRS1onqrHB4RM9otEflN4hSV6euPRv6Mmy0HqDiWUL435KEll1U2LBwCfMDv1G1a3QyWUOtujgDrQ4w9GrLgvKSNxzhLCd-8a_1dbot_hXNf4W8OLSV56Es?purpose=inline" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:6A0DAD,100:C084FC&height=220&section=header&text=Tayani%20Branco&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%3E%20Developer_%20%7C%20ADS%20Student_%20%7C%20Cyber%20Mode&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
@@ -28,9 +28,9 @@
 
 ##  Sobre mim
 
-Olá! Eu sou **Tayani Branco**, estudante de **Análise e Desenvolvimento de Sistemas**.
+Olá! Eu me chamo **Tayani**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Atualmente estou estudando **JavaScript** e aprimorando meus conhecimentos em desenvolvimento de software.
+Atualmente estou experimentando diversas linguagens, mas minha favorita é **JavaScript** e ando aprimorando meus conhecimentos em desenvolvimento de software.
 
 Tenho interesse principalmente em:
 
@@ -69,7 +69,7 @@ Estou sempre buscando aprender novas tecnologias e evoluir minhas habilidades.
 
 ---
 
-## Atualmente estudando
+##  Atualmente estudando
 
 <div align="center">
 
@@ -87,7 +87,37 @@ Automação        [███████████░░░░░░░] 55%
 
 <div align="center">
 
-## System
+---
+
+## Terminal
+
+<pre>
+┌──(tayani㉿github)-[~/profile]
+└─$ cat about_me.txt
+
+[+] Developer
+[+] ADS Student
+[+] JavaScript learner
+[+] Frontend enthusiast
+[+] Backend enthusiast
+[+] Automation lover
+
+┌──(tayani㉿github)-[~/profile]
+└─$ system_status
+
+[████████████████████████████████████████] ONLINE
+
+┌──(tayani㉿github)-[~/profile]
+└─$ echo "Keep coding."
+
+&gt; Keep coding. 💜
+</pre>
+
+---
+
+<div align="center">
+
+##  System
 
 <pre>
 ╔════════════════════════════════════════════╗
@@ -98,8 +128,8 @@ Automação        [███████████░░░░░░░] 55%
 ║   ACCESS     : PUBLIC                      ║
 ║                                            ║
 ║   &gt; Connection established...              ║
-║   &gt; Learning in progress...               ║
-║   &gt; Building new things...                ║
+║   &gt; Learning in progress...                ║
+║   &gt; Building new things...                 ║
 ║                                            ║
 ╚════════════════════════════════════════════╝
 </pre>
